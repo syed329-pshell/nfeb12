@@ -19,5 +19,5 @@ print(z)
 |x|182.2|gg|
 |dd||ddd|ddd|
 |dd|ddd|dd|
-|x|18.2
+|x|18.2|nd|
 
